@@ -1,0 +1,8 @@
+.categories{
+  width: 20%;
+  padding: 1.25em;
+}
+
+.collection-item{
+  cursor: pointer;
+}

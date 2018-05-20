@@ -1,0 +1,9 @@
+.show{
+  display: block;
+  z-index: 999;
+  top: 7em;
+}
+
+.restaurant-category{
+  text-transform: capitalize;
+}
